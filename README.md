@@ -1,6 +1,6 @@
 # gestion_magasin
 ####  to see file status
-- git status
+  - git status
 
 ## Steps to clone the project
 1. go to file that you want to put your project in.
@@ -9,10 +9,10 @@
 
 ## Steps to prepar the project
 #### to add prj in staging area 
-- git add .
+  - git add .
 
 #### to remove the add from staging area
-- git reset head file_name
+  - git reset head file_name
 
 #### {to add prj in local repo}
-- git commit -m "i did new thing"
+  - git commit -m "i did new thing"
