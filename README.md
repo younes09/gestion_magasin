@@ -5,8 +5,8 @@
 - cd prj_name
 
 ## Steps to clone prepar the project
-####{to add prj in staging area ,we can do (git reset head file_name) to remove the add,(git status) to see file status}
+## {to add prj in staging area ,we can do (git reset head file_name) to remove the add,(git status) to see file status}
 - git add .
 
-####{to add prj in local repo}
+-- {to add prj in local repo}
 - git commit -m "i did new thing"
