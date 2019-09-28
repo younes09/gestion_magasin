@@ -1,2 +1,2 @@
 # gestion_magasin
-## Steps to clone the project
+##  Steps to clone the project
